@@ -1,21 +1,24 @@
-1. Name Surname
+1. ## Name Surname
+
    Svetlana Malashenko
 
 ---
 
-2. Contacts
+2. ## Contacts
+
    Location: Saint Petersburg, Russia
    Phone: 89103006879
    Email address: MS.Andreeevna@yandex.ru
 
 ---
 
-3. Information about me
+3. ## Information about me
+
    I am currently a student at an electrical engineering university "LETI". I study web development, strive to become a good developer and work in a large company.
 
 ---
 
-4. Skills
+4. ## Skills
 
 - HTML5, CSS/SCSS;
 - JavaScript (ES5/ES6);
@@ -25,18 +28,18 @@
 
 ---
 
-5. Experience
+5. ## Experience
 
 Since 2020 I have been working in the direction of an information technology specialist.
 
 ---
 
-6. Education
+6. ## Education
 
 Bachelor's Degree in Biotechnical Systems and Technologies.
 
 ---
 
-7. English
+7. ## English
 
 А2, at the moment I am improving my English.
