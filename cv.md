@@ -30,3 +30,13 @@
 Since 2020 I have been working in the direction of an information technology specialist.
 
 ---
+
+6. Education
+
+Bachelor's Degree in Biotechnical Systems and Technologies.
+
+---
+
+7. English
+
+А2, at the moment I am improving my English.
