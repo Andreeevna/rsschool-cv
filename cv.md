@@ -6,9 +6,9 @@
 
 2. ## Contacts
 
-   Location: Saint Petersburg, Russia
-   Phone: 89103006879
-   Email address: MS.Andreeevna@yandex.ru
+- Location: Saint Petersburg, Russia
+- Phone: 89103006879
+- Email address: MS.Andreeevna@yandex.ru
 
 ---
 
